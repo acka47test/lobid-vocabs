@@ -1924,7 +1924,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n404300> ;
     skos:notation "rpb404380" ;
-    skos:prefLabel "Abgeordneter"@de .
+    skos:prefLabel "Abgeordnete. Abgeordneter"@de .
 
 <http://purl.org/lobid/rpb#n406000>
     a skos:Concept ;
@@ -1980,7 +1980,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n406100> ;
     skos:notation "rpb406130" ;
-    skos:prefLabel "Politiker"@de .
+    skos:prefLabel "Politikerin. Politiker"@de .
 
 <http://purl.org/lobid/rpb#n406200>
     a skos:Concept ;
@@ -2171,7 +2171,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n423600> ;
     skos:notation "rpb423640" ;
-    skos:prefLabel "Beamter"@de .
+    skos:prefLabel "Beamtin. Beamter"@de .
 
 <http://purl.org/lobid/rpb#n424000>
     a skos:Concept ;
@@ -2743,7 +2743,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n503420> ;
     skos:notation "rpb503424" ;
-    skos:prefLabel "Pendler"@de .
+    skos:prefLabel "Pendlerin. Pendler"@de .
 
 <http://purl.org/lobid/rpb#n503430>
     a skos:Concept ;
@@ -3167,13 +3167,13 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n543600> ;
     skos:notation "rpb543620" ;
-    skos:prefLabel "Unternehmer"@de .
+    skos:prefLabel "Unternehmerin. Unternehmer"@de .
 
 <http://purl.org/lobid/rpb#n543630>
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n543600> ;
     skos:notation "rpb543630" ;
-    skos:prefLabel "Arbeitnehmer"@de .
+    skos:prefLabel "Arbeitnehmerin. Arbeitnehmer"@de .
 
 <http://purl.org/lobid/rpb#n543640>
     a skos:Concept ;
@@ -3241,7 +3241,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n544050> ;
     skos:notation "rpb544052" ;
-    skos:prefLabel "Bauer"@de .
+    skos:prefLabel "Bäuerin. Bauer"@de .
 
 <http://purl.org/lobid/rpb#n544054>
     a skos:Concept ;
@@ -3253,7 +3253,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n544050> ;
     skos:notation "rpb544056" ;
-    skos:prefLabel "Landarbeiter"@de .
+    skos:prefLabel "Landarbeiterin. Landarbeiter"@de .
 
 <http://purl.org/lobid/rpb#n544060>
     a skos:Concept ;
@@ -3416,7 +3416,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n544400> ;
     skos:notation "rpb544490" ;
-    skos:prefLabel "Förster"@de .
+    skos:prefLabel "Försterin. Förster"@de .
 
 <http://purl.org/lobid/rpb#n544600>
     a skos:Concept ;
@@ -5980,7 +5980,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n790000> ;
     skos:notation "rpb798000" ;
-    skos:prefLabel "Student"@de .
+    skos:prefLabel "Studentin. Student"@de .
 
 <http://purl.org/lobid/rpb#n798200>
     a skos:Concept ;
@@ -6060,7 +6060,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n802000> ;
     skos:notation "rpb802080" ;
-    skos:prefLabel "Schauspieler"@de .
+    skos:prefLabel "Schauspielerin. Schauspieler"@de .
 
 <http://purl.org/lobid/rpb#n803000>
     a skos:Concept ;
@@ -6141,13 +6141,13 @@
     skos:broader <http://purl.org/lobid/rpb#n820000> ;
     skos:narrower <http://purl.org/lobid/rpb#n824020>, <http://purl.org/lobid/rpb#n824040>, <http://purl.org/lobid/rpb#n824060>, <http://purl.org/lobid/rpb#n824080> ;
     skos:notation "rpb824000" ;
-    skos:prefLabel "Musiker"@de .
+    skos:prefLabel "Musikerin. Musiker"@de .
 
 <http://purl.org/lobid/rpb#n824020>
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n824000> ;
     skos:notation "rpb824020" ;
-    skos:prefLabel "Instrumentalmusiker"@de .
+    skos:prefLabel "Instrumentalmusikerin. Instrumentalmusiker"@de .
 
 <http://purl.org/lobid/rpb#n824040>
     a skos:Concept ;
@@ -6165,7 +6165,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n824000> ;
     skos:notation "rpb824080" ;
-    skos:prefLabel "Sänger"@de .
+    skos:prefLabel "Sängerin. Sänger"@de .
 
 <http://purl.org/lobid/rpb#n824500>
     a skos:Concept ;
@@ -6344,7 +6344,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n843000> ;
     skos:notation "rpb843090" ;
-    skos:prefLabel "Architekt"@de .
+    skos:prefLabel "Architektin. Architekt"@de .
 
 <http://purl.org/lobid/rpb#n844000>
     a skos:Concept ;
@@ -6430,7 +6430,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n845000> ;
     skos:notation "rpb845050" ;
-    skos:prefLabel "Bildhauer"@de .
+    skos:prefLabel "Bildhauerin. Bildhauer"@de .
 
 <http://purl.org/lobid/rpb#n846000>
     a skos:Concept ;
@@ -6449,7 +6449,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n846000> ;
     skos:notation "rpb846050" ;
-    skos:prefLabel "Maler"@de .
+    skos:prefLabel "Malerin. Maler"@de .
 
 <http://purl.org/lobid/rpb#n847000>
     a skos:Concept ;
@@ -6462,7 +6462,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n847000> ;
     skos:notation "rpb847050" ;
-    skos:prefLabel "Zeichner"@de .
+    skos:prefLabel "Zeichnerin. Zeichner"@de .
 
 <http://purl.org/lobid/rpb#n847500>
     a skos:Concept ;
@@ -6475,7 +6475,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n847500> ;
     skos:notation "rpb847550" ;
-    skos:prefLabel "Graphiker"@de .
+    skos:prefLabel "Graphikerin. Graphiker"@de .
 
 <http://purl.org/lobid/rpb#n848000>
     a skos:Concept ;
@@ -6654,7 +6654,7 @@
     a skos:Concept ;
     skos:broader <http://purl.org/lobid/rpb#n861050> ;
     skos:notation "rpb861056" ;
-    skos:prefLabel "Verleger"@de .
+    skos:prefLabel "Verlegerin. Verleger"@de .
 
 <http://purl.org/lobid/rpb#n861060>
     a skos:Concept ;
